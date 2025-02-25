@@ -2,6 +2,5 @@
     "name": "Not A Token",
     "symbol": "666",
     "description": "This is a devnet metadata.",
-    "image": "https://raw.githubusercontent.com/daffaahh/metadataToken/master/symbol.png",
-    "attributes": []
+    "image": "https://raw.githubusercontent.com/daffaahh/metadataToken/master/symbol.png"
   }
