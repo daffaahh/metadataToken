@@ -6,8 +6,8 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/daffaahh/metadataToken/master/logotoken.jpg",
-        "type": "image/jpg"
+        "uri": "https://raw.githubusercontent.com/daffaahh/metadataToken/master/symbol.png",
+        "type": "image/png"
       }
     ],
     "category": "image",
